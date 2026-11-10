@@ -1,4 +1,4 @@
-# EqualizedCoverage_CP
+# CFGNN
 
 This is a repo for the paper CFGNN
 
